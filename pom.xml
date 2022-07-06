@@ -96,13 +96,13 @@
 	<distributionManagement>
 	    <repository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Releases Nexus Repository</name>
+	      <name>Ben Technologies Releases Nexus Repository</name>
 	      <url>http://172.31.29.170:8081/repository/library-release/</url>
 	    </repository>
 	    
 	    <snapshotRepository>
 	      <id>nexus</id>
-	      <name>Landmark Technologies Snapshot Nexus Repository </name>
+	      <name>Ben Technologies Snapshot Nexus Repository </name>
 	      <url>http://172.31.29.170:8081/repository/library-snapshot/</url>
 	    </snapshotRepository>
 	    
